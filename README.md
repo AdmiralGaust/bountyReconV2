@@ -1,6 +1,6 @@
 ## bountyRecon v2
 
-Bounty Recon is a framework built on top of many open source tools to facilitate automation of reconnaissance for active bug bounties. It is designed to cover maximum scope wihtout requiring manual efforts or intervention.
+Bounty Recon is a framework built on top of many open source tools to facilitate automation of reconnaissance for active bug bounties. It is designed to cover maximum scope without requiring manual efforts or intervention.
 
 It combines a lot of great open source tools including but not limited to interlace, subfinder, massdns, httpx, nuclei, masscan, nmap, and many others. The complete list of tools in use can be found [here](documentation/dependencies.md).
 
