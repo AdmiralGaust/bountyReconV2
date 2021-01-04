@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: bfac
+Version: 1.4
+Summary: Advanced Backup-File Artifacts Testing for Web-Applications
+Home-page: https://github.com/mazen160/bfac
+Author: Mazin Ahmed
+Author-email: mazin@mazinahmed.net
+License: GPL-3.0
+Description: An automated tool that checks for backup artifacts that may disclose the web-application's source code.
+Keywords: backup,artifacts,checker,web scanner,web vulnerability scanner,bfac
+Platform: UNKNOWN

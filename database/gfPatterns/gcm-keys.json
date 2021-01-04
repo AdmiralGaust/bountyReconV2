@@ -1,0 +1,7 @@
+{
+    "flags": "-oHanrE",
+    "patterns": [
+        "AIzaSy[0-9A-Za-z_-]{33}",
+        "AAAA[a-zA-Z0-9_-]{7}:[a-zA-Z0-9_-]{140}"
+    ]
+}
