@@ -2,15 +2,15 @@
 
 Bounty Recon is a framework built on top of many open source tools to facilitate automation of reconnaissance for active bug bounties. It is designed to cover maximum scope wihtout requiring manual efforts or intervention.
 
-It combines a lot of great open source tools including but not limited to interlace, subfinder, massdns, httpx, nuclei, masscan, nmap, and many others. The complete list of tools in use can be found (here)[documentation/dependencies.md].
+It combines a lot of great open source tools including but not limited to interlace, subfinder, massdns, httpx, nuclei, masscan, nmap, and many others. The complete list of tools in use can be found [here](documentation/dependencies.md).
 
 ## Requirements
 
 ```
 Go 1.14+ must be installed
 $GOPATH/bin must be in $PATH 
-python 3.6 and above 	as python3 in $PATH
-python 2.7 				as python2 in $PATH
+python 3.6 and above 		as python3 in $PATH
+python 2.7 			as python2 in $PATH
 ```
 
 ## Installation
@@ -38,14 +38,15 @@ sudo ./install-dependencies.sh
 * Edit the modules/slacker.py to include bot's slack token
 
 ```
-	token = ''
+#Place your token here
+token = ''
 ```
 
 ## Introduction to the modules
 
 There are few modules which depends on output of previous module and cannot run independently. For eg; `resolver` depends on `subdomains` module for getting list of resolvable subdomains.
 
-More information on modules and their functioning can be found (here)['./documentation/flow-architecture.md'].
+More information on modules and their functioning can be found [here](documentation/flow-architecture.md).
 
 ## Configuring the Scan
 
@@ -76,7 +77,7 @@ Once you have installed all the dependencies and  configured all the details in 
 python3 scanner.py
 ```
 
-You may configure scanner to launch all modules or specific modules depending on the requirements. In case, the scan was aborted you may start with the last module in progress(need to manually remove completed modules from runs[] in scanner.py). 
+You may configure scanner to launch all modules or specific modules depending on the requirements. In case, the scan was aborted due to any reason, it can be restarted from the last module aborted. However, you need to manually remove completed modules from list `runs[]` in scanner.py. 
 
 ## Warning
 
