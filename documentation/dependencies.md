@@ -1,56 +1,56 @@
 ## Thanks to all open source contributors 
 
 * __Interlace__ by @codingo
-** https://github.com/codingo/Interlace
+  * https://github.com/codingo/Interlace
 
 * Projectdiscovery's __subfinder__
-** https://github.com/projectdiscovery/subfinder
+  * https://github.com/projectdiscovery/subfinder
 
-* massdns by __blechschmidt__
-** https://github.com/blechschmidt/massdns
+* __massdns__ by blechschmidt
+  * https://github.com/blechschmidt/massdns
 
-* httpx by __projectdiscovery__
-** https://github.com/projectdiscovery/httpx
+* __httpx__ by projectdiscovery
+  * https://github.com/projectdiscovery/httpx
 
-* subjack by __haccer__
-** https://github.com/haccer/subjack
+* __subjack__ by haccer
+  * https://github.com/haccer/subjack
 
-* SubOver by __Ice3man543__
-** https://github.com/Ice3man543/SubOver
+* __SubOver__ by Ice3man543
+  * https://github.com/Ice3man543/SubOver
 
-* getJS by __003random__
-** https://github.com/003random/getJS
+* __getJS__ by 003random
+  * https://github.com/003random/getJS
 
-* Wordlist files.txt taken from (Combined)
-** https://raw.githubusercontent.com/adamtlangley/gitscraper/master/cleaned/files.txt
-** https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10
+* Wordlist files.txt is taken from (Combined)
+  * https://raw.githubusercontent.com/adamtlangley/gitscraper/master/cleaned/files.txt
+  * https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10
 
-* Wordlist folders.txt taken from (Combined)
-** https://raw.githubusercontent.com/adamtlangley/gitscraper/master/cleaned/folders.txt
+* Wordlist folders.txt is taken from (Combined)
+  * https://raw.githubusercontent.com/adamtlangley/gitscraper/master/cleaned/folders.txt
 
-* bfac by __mazen160__
-** https://github.com/mazen160/bfac
+* __bfac__ by mazen160
+  * https://github.com/mazen160/bfac
 
-* ffuf by __ffuf__
-** https://github.com/ffuf/ffuf
+* __ffuf__ 
+  * https://github.com/ffuf/ffuf
 
-* FavFreak by __evanshbatham__
-** https://github.com/devanshbatham/FavFreak
+* __FavFreak__ by evanshbatham
+  * https://github.com/devanshbatham/FavFreak
 
-* nuclei by __projectdiscovery__
-** https://github.com/projectdiscovery/nuclei
+* __nuclei__ by projectdiscovery
+  * https://github.com/projectdiscovery/nuclei
 
-* nmap by __nmap__
-** https://github.com/nmap/nmap
+* __nmap__ 
+  * https://github.com/nmap/nmap
 
-* masscan by __robertdavidgraham__
-** https://github.com/robertdavidgraham/masscan
+* __masscan__ by robertdavidgraham
+  * https://github.com/robertdavidgraham/masscan
 
-* gau by __lc__
-** https://github.com/lc/gau
+* __gau__
+  * https://github.com/lc/gau
 
-* gf by __tomnomnom__
-** https://github.com/tomnomnom/gf
+* __gf__ by tomnomnom
+  * https://github.com/tomnomnom/gf
 
-* brutespray by __x90skysn3k__
-** https://github.com/x90skysn3k/brutespray
+* __brutespray__ by x90skysn3k
+  * https://github.com/x90skysn3k/brutespray
